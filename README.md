@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaye</h1>
-<h3 align="center">🐣 저는 서울에 거주하는 주니어 프론트엔드 개발자입니다.</h3>
+<h3 align="center">🐣 저는 서울에 거주하는 프론트엔드 개발자입니다.</h3>
 <p align="center">
-    💼 <strong>대신교육</strong>에서 프론트엔드 개발자로 근무하였습니다.
+<!--     💼 <strong>대신교육</strong>에서 프론트엔드 개발자로 근무하였습니다. -->
     <br>
     🏫 비트캠프에서 <em>JAVA 웹프로그래밍 풀스택</em> 에 대한 수업을 들었어요.
     <br>
