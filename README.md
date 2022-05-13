@@ -6,7 +6,6 @@
     🏫 비트캠프에서 <em>JAVA 웹프로그래밍 풀스택</em> 에 대한 수업을 들었어요.
     <br>
     📚 현재는 <strong>JS</strong>와 <strong>SCSS, 리액트, TS</strong>등을 공부하고 있습니다.
-
 </p>
 
 <br>
