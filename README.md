@@ -38,7 +38,9 @@
 </p>
 
 <p align="center" style="color:gray">
-    [포트폴리오 웹사이트로 이동](https://jayeha.github.io/portfolio/)
+    포트폴리오 웹사이트로 이동
+    <br/>
+    https://jayeha.github.io/portfolio/
 </p>    
 </a>
 
