@@ -1,6 +1,8 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
+
 **JayeHa/JayeHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +16,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/JayeHa?pet-id=643987261886575642"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/JayeHa?pet-id=643988851536172946"
+    width="600"
+    height="120"
+  />
+</a>
+  
